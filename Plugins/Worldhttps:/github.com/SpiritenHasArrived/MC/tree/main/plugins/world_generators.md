@@ -62,6 +62,8 @@ scripting, configuration tools, and an active community working on configuration
 [TerraformGenerator](https://www.spigotmc.org/resources/terraformgenerator-alpha.75132/) : TerraformGenerator is not the fastest or best looking generator, but it is free and open source. It updates frequently, but 
 support may be limited.
 
+# ------------------------------------------------------------------------------
+
 # Recommendations
 
 Out of all of the World Generators listed here, I would recommend [Terra](https://www.spigotmc.org/resources/terra.85151/) for modern versions of the game, and if you're running a 
