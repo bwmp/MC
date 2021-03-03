@@ -210,9 +210,13 @@ Mod loader server software.
 # Recommendations
 
 Out of all of this what do I recommend?
+
 For newer versions use [PurPur](https://purpur.pl3x.net/). It's a reliable and fast software and the forks of it aren't too great yet.
+
 For 1.8 use [Cuberite](https://cuberite.org/) if you are custom developing plugins, otherwise use [TacoSpigot](https://tacospigot.github.io/) or [LightSpigot 1.8.8](https://www.mc-market.org/resources/17753/).
+
 For a hybrid server? Personally I'd recommend [Magma](https://github.com/magmafoundation/Magma). I've had great experiences with it and it runs pretty well.
+
 Premium software? I cannot recommend any of them. They all have their drawbacks and I have no experience running any of them.
 
 
