@@ -99,6 +99,10 @@ information), and some general performance optimizations.
 [Spigot](https://www.spigotmc.org/wiki/buildtools/) : Spigot took over the job of [CraftBukkit](https://www.spigotmc.org/wiki/buildtools/) after legal issues came since CraftBukkit used code from Mojang's server software. Spigot also
 introduced various optimizations and new abilities. Spigot supports 1.4.6 - 1.16.5.
 
+[SportBukkit](https://github.com/StratusNetwork/SportBukkit) : SportBukkit is a 1.12.2 (I think) fork of CraftBukkit improving stability and adding some new features. It was developed for and by the StratusNetwork server.
+
+[SportPaper](https://github.com/StratusNetwork/SportPaper) : SportPaper is a 1.8.8 fork of Paper improving performance even more. It is developed for and by the StratusNetwork server.
+
 [SSSpigot](https://www.mc-market.org/resources/14122/) : SSSpigot is a premium 1.16.5 Paper fork with multi-thread support, useless code removed, some general optimizations, and tracking 
 metrics disabled.
 
