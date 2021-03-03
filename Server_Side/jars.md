@@ -53,7 +53,7 @@ flags) so it does have a bit of backing too.
 
 [FoxSpigot](https://www.mc-market.org/resources/8592/)** : A 1.8.8 Spigot fork with custom knockback editing, multi-threading support, and togglable things like mob AI.
 
-[Glowstone](https://github.com/GlowstoneMC/Glowstone) : Glowstone was an attempt at rewriting a Minecraft server from the ground up with multi-core abilities while keeping BukkitAPI compatibility. Today Glowstone slowly being updated.
+[Glowstone](https://github.com/GlowstoneMC/Glowstone) : Glowstone was an attempt at rewriting a Minecraft server from the ground up with multi-core abilities while keeping BukkitAPI compatibility. Today Glowstone is slowly being updated.
 
 [GuardSpigot](https://www.mc-market.org/resources/14497/) : GuardSpigot is a 1.8.8 $99 premium TacoSpigot fork with features like custom knockback editing, lag machine detection, and a
 bunch of things you can toggle like mob AI for performance gain / gameplay change.
