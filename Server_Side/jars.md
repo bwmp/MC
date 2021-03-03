@@ -10,7 +10,7 @@ This list I am compiling here covers all of the different Minecraft Server Jars 
 # Bukkit | A-Z
 Server software that runs on the Bukkit API (non-Hybrid servers)
 
-**If next to the name of the jar I have added these double astericks because that the developer of that jar mass produces jars. This 
+**If next to the name of the jar I have added these double astericks it is because that the developer of that jar mass produces jars. This 
 leads to a lack of support, lack of updates, and quick abandonement.
   
 [AirPlane](https://github.com/Technove/Airplane) : AirPlane is a 1.16.x Tuinity fork attempting to create the top performing fork.
