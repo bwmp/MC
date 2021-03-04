@@ -5,6 +5,6 @@ This section is for all of the backend things like Proxies (like BungeeCord) or 
 # ------------------------------------------------------------------------------
 # Amounts Listed
 
-75 different server jars.
-
 39 different proxies.
+
+75 different server jars.
