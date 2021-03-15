@@ -761,7 +761,7 @@ by enforcing artificial player limits to make owners pay major amounts of money 
 
 # ------------------------------------------------------------------------------
 
-#Tips To Server Hosts
+# Tips To Server Hosts
 
 Here are just some tips I'd like to give to server hosts of what I recommend to do and what not to do.
 
