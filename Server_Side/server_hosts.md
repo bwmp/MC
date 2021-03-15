@@ -74,7 +74,7 @@ prices ($10 per GB of ram) for what should be much cheaper. Avoid.
 
 [BirdFlop](https://www.birdflop.com/) : BirdFlop offers $2 per GB of ram hosting on a Ryzen 9 3900 (plans starting at 4GB), $3 per GB of ram  hosting on a 
 Ryzen 9 3900XT (plans starting at 4GB), and $3 per GB of ram hosting on a Ryzen 9 5900x/5950x (plans starting at 8GB). Their locations are in Helsinki -
-Finland for the 3900 plan, New York City - USA for the 3900XT plan, and New York City - USA for the 5900/5950x plane. They offer some of the best support
+Finland for the 3900 plan, New York City - USA for the 3900XT plan, and New York City - USA for the 5900/5950x plan. They offer some of the best support
 I have ever seen, complete transparency, and cheap prices for quality products (sadly leading to quick sell out times and long wait lists). If you can get
 one of their servers I highly recommend you do it.
 
