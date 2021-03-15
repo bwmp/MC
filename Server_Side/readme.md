@@ -9,4 +9,4 @@ This section is for all of the backend things like Proxies (like BungeeCord) or 
 
 171 different server hosts.
 
-75 different server jars.
+77 different server jars.
