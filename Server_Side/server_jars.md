@@ -60,8 +60,6 @@ bunch of things you can toggle like mob AI for performance gain / gameplay chang
 
 [HOSE](https://github.com/softpak/HOSE) : HOSE was an attempt at adding multi-core support on a Spigot fork in 1.11.2. It has a release, but is abandoned today. 
 
-[HotPur](https://github.com/ishlandbukkit/Hotpur) : HotPur is a 1.16.5 (?) fork of PurPur attempting to add Fabric mod support.
-
 [Imanity Spigot 2](https://www.mc-market.org/resources/10770/) : A 1.8.8 premium Paper fork with configurable cave generation, built in 1.7 - 1.16 client compatiblity, and many stability 
 optimizations.
 
@@ -95,6 +93,9 @@ themselves.
 
 [RocketMC](https://www.mc-market.org/resources/13898/) : RocketMC is a premium 1.15.2 Tuinity fork with a built in monitoring system, plugin manager (enabling/disabling/command 
 information), and some general performance optimizations.
+
+[SparklyPaper](https://github.com/SparklyPower/SparklyPaper) : SparklyPaper is a Tuinity/Paper fork aimed at providing personal patches for the creator that may be seen
+as weird/crazy. It supports 1.16.x as far as I am aware.
 
 [Spigot](https://www.spigotmc.org/wiki/buildtools/) : Spigot took over the job of [CraftBukkit](https://www.spigotmc.org/wiki/buildtools/) after legal issues came since CraftBukkit used code from Mojang's server software. Spigot also
 introduced various optimizations and new abilities. Spigot supports 1.4.6 - 1.16.5.
@@ -150,7 +151,12 @@ Server software that doesn't run on BukkitAPI
 
 [Cuberite](https://cuberite.org/) : Cuberite is a recode of Minecraft servers from the ground up with its own API and plugins. It currently supports 1.8 to 1.12.2.
 
+[Feather](https://github.com/feather-rs/feather) : Feather is a recode of Minecraft servers entirely in the Rust programming language, aimed at making the server run
+multicore - this would significantly increase performance. It currently only supports 1.16.5. Worth noting, their plugin API is not finished yet either.
+
 [hMod](https://github.com/traitor/Minecraft-Server-Mod/) : The first server type with server side mods (plugins) supported. It supported early Alpha versions.
+
+[HotPur](https://github.com/ishlandbukkit/Hotpur) : HotPur is a 1.16.5 (?) fork of PurPur attempting to add Fabric mod support.
 
 [LightStone](https://github.com/grahamedgecombe/lightstone) : All the way back in 2011 in Alpha 1.0.16 an attempted multi-core Minecraft server project was made. It didn't head anywhere, but is the predecessor to the Glowstone project.
 
